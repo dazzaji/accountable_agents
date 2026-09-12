@@ -1,2 +1,3 @@
 # accountable_agents
-Accountable Agent ID
+
+This repo houses certain open source independent contributions of Dazza Greenwood toward the ideas for Accountable Agent ID.
